@@ -61,6 +61,10 @@ section::before {
     justify-content: space-between;
 }
 
+.about-exp-item-detail {
+    display: none;
+}
+
 @keyframes upDown {
     0% {
         transform: translateY(0);
