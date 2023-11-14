@@ -110,7 +110,7 @@ section::before {
 }
 
 #work-1:hover::after{
-    content: 'Web Project';
+    content: 'IT Infrastruktur & Networking';
 }
 
 #work-2 {
@@ -118,7 +118,7 @@ section::before {
 }
 
 #work-2:hover::after{
-    content: 'Software Project';
+    content: 'IT Support';
 }
 
 #work-3 {
@@ -126,7 +126,7 @@ section::before {
 }
 
 #work-3:hover::after{
-    content: 'Software Project';
+    content: 'Quality Control Monitoring';
 }
 
 .contact {
